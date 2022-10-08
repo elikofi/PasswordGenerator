@@ -11,7 +11,7 @@ do
 
         if (length > 0)
         {
-            Console.WriteLine(GeneratePassword(length));
+            Console.WriteLine($"Your password is: {GeneratePassword(length)}");
         }
         else
         {
