@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LzmkOorLG82Nx5KOzTYfGB6n2ILs/zwspTOdrDa7gCBsrV8M0KWccOoLhEXSUvk4kttZ7gGgOicS+oLXGst5kQ==",
+  "dgSpecHash": "U/O59w9mjn9pohSeV7KqyP6NIO5FoP/yfUcHmYy5TM9TrKzsdcAFzU6WQv5AITUBz7FRG/wTQQhzHm7gVAOuSA==",
   "success": true,
-  "projectFilePath": "/Users/elijahamoako/Projects/PasswordGenerator/PasswordGenerator/PasswordGenerator.csproj",
+  "projectFilePath": "/Users/elijahamoako/Desktop/Portfolio/C#/PasswordGenerator/PasswordGenerator/PasswordGenerator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

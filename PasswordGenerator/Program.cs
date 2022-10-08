@@ -1,6 +1,5 @@
-﻿using System.Text;
-
-
+﻿using System.Security.Cryptography;
+using System.Text;
 
 do
 {
@@ -38,7 +37,7 @@ do
 
             for (int i = 0; i < length; i++)
             {
-                int index = rnd.Next(chars.Length);
+                int index = RandomNumberGenerator.GetInt32(chars.Length);
 
                 builder.Append(chars[index]);
             }
