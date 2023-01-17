@@ -27,9 +27,6 @@ namespace PasswordGenerator
             }
             return builder.ToString();
         }
-        public Generator()
-        {
-        }
     }
 }
 
