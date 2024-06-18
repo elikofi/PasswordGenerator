@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{F9354FBD-7E14-4C09-A536-CB0A972B045C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PasswordGenerator/Generator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PasswordGenerator/Program.cs">
     <Files>
-      <File FileName="PasswordGenerator/Program.cs" Line="36" Column="26" />
-      <File FileName="PasswordGenerator/Generator.cs" Line="4" Column="1" />
+      <File FileName="PasswordGenerator/Program.cs" Line="39" Column="24" />
+      <File FileName="PasswordGenerator/Generator.cs" Line="30" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,11 +14,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.PasswordGenerator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
